@@ -5,6 +5,20 @@
 
 **Janiculum Hill**<br>
 
-**St. Peter's Basilica and the Sistine Chapel**
+**St. Peter's Basilica and the Sistine Chapel**<br>
+
+---
+# Vacation spots
+1. Pantheon
+1. Side seeing
+1. Escape room adventures
+
+* Carbonara
+* Pizza Al Taglio
+* Gelato
+
+
+
+
 
 
