@@ -15,6 +15,13 @@ sport.<br>
 |Tennis|Strengthens muscular endurance|20|
 |BasketBall|Develops fundamental movement skills|10|
 |Golf|Mental Relaxation|25|
+---
+# Quotes
+>"The important thing is not to stop questioning." -*Albert Einstein*
+
+>"The more I learn, the more I realize how much I don't know." - *Isaac Newton*
+
+
 
 
 
